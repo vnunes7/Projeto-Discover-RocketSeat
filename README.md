@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com muito ♥ e aprendizado do vNUNES.
+Feito com muito ♥ e aprendizado do Victor Nepomuceno.
